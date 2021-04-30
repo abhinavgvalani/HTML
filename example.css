@@ -1,7 +1,8 @@
 body
 {
  background-color: black;
- tetxt-color:whitesmoke;
+ color:whitesmoke;
+ text-align:left;
 }
 div
 {
